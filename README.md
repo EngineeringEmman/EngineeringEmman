@@ -12,27 +12,48 @@ My experience includes hands-on aircraft manufacturing and assembly, mechanical 
 
 ### Aircraft Assembly Intern — CGS Hawk Ultralight Aircraft
 
-Worked on the manufacturing and assembly of ultralight aircraft components in a hands-on aerospace environment.
+Hands-on aerospace manufacturing experience involving aircraft fabrication, assembly, and working with physical hardware.
 
-- Fabricated and assembled aircraft components following engineering drawings and assembly procedures
-- Performed drilling, riveting, fitting, and structural assembly operations
-- Developed practical experience connecting engineering designs with physical hardware
-- Gained exposure to aerospace manufacturing processes, quality considerations, and product assembly
+**Skills developed:**
+- Aircraft component fabrication and assembly
+- Drilling, riveting, and structural fitting
+- Manufacturing processes and quality considerations
+- Connecting engineering designs with real-world hardware
+
+[View Internship Experience →](PASTE_LINK_HERE)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 I am building a portfolio of engineering projects focused on designing, developing, and testing physical systems.
 
-Areas of interest:
+### 🏠 Project Living — Automated Living Space Design
 
-- Mechanical design
-- Product development
-- Robotics and hardware systems
+A long-term engineering project focused on designing and building a fully furnished and automated living space. This project combines mechanical design, CAD modeling, electronics, automation, and iterative prototyping.
+
+**Focus areas:**
+- Space and system design
 - CAD modeling
-- Prototyping and testing
-- Embedded systems
+- Mechanical solutions
+- Automation and electronics
+- Testing and iteration
+
+[View Project Living →](PASTE_LINK_HERE)
+
+
+### ⚙️ Mechanical + Electronics + Software Build
+
+A short-term engineering project combining mechanical design, CAD, coding, and electronics into a complete functional system.
+
+**Focus areas:**
+- Mechanical design and fabrication
+- CAD development
+- Embedded programming
+- Electronics integration
+- Prototype testing
+
+[View Project →](PASTE_LINK_HERE)
 
 ---
 
