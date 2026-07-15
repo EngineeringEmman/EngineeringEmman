@@ -39,7 +39,7 @@ A long-term engineering project focused on designing and building a fully furnis
 - Automation and electronics
 - Testing and iteration
 
-[View Project Living →](PASTE_LINK_HERE)
+[View Project Living →](./project-living)
 
 
 ### ⚙️ Mechanical + Electronics + Software Build
