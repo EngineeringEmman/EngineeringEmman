@@ -39,4 +39,4 @@ This repository documents hands-on aerospace manufacturing and assembly experien
 - [ ] Expand descriptions of the mechanical fasteners and materials utilized.
 
 ---
-[🡨 Back to Portfolio Dashboard](../)
+[🡨 Back to Portfolio Dashboard](https://github.com/EngineeringEmman)
