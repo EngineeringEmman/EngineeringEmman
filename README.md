@@ -20,7 +20,7 @@ Hands-on aerospace manufacturing experience involving aircraft fabrication, asse
 - Manufacturing processes and quality considerations
 - Connecting engineering designs with real-world hardware
 
-[View Internship Experience →](https://github.com/EngineeringEmman/engineeringemman.github.io/tree/master/internship-cgs)
+[View Internship Experience →](./internship-cgs)
 
 ---
 
