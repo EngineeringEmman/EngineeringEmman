@@ -12,7 +12,7 @@ This project demonstrates a complete engineering workflow: **Concept ➔ CAD Par
 ---
 
 ## 📸 Media & Visual Log
-*(Placeholder for Onshape screen captures, bill of materials, wood processing photos, and smart-lighting demonstrations.)*
+
 
 ![Onshape Room Layout CAD](https://github.com/user-attachments/assets/dbc2697f-67a2-48b1-a020-c499bb0b521c)
 
