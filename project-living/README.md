@@ -14,7 +14,7 @@ This project demonstrates a complete engineering workflow: **Concept ➔ CAD Par
 ## 📸 Media & Visual Log
 *(Placeholder for Onshape screen captures, bill of materials, wood processing photos, and smart-lighting demonstrations.)*
 
-![Onshape Room Layout CAD](./<img width="980" height="661" alt="image" src="https://github.com/user-attachments/assets/dbc2697f-67a2-48b1-a020-c499bb0b521c" />)
+![Onshape Room Layout CAD](https://github.com/user-attachments/assets/dbc2697f-67a2-48b1-a020-c499bb0b521c)
 
 *Figure 1: Full isometric view of the parametric room layout modeled in Onshape.*
 
