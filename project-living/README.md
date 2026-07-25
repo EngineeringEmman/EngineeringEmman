@@ -11,10 +11,52 @@ This project demonstrates a complete engineering workflow: **Concept ➔ CAD Par
 
 ---
 
-## 📸 Media & Visual Log
+## 📸 Visual Log: Engineering & Build Phases
 
-![Onshape Room Layout CAD](https://github.com/user-attachments/assets/dbc2697f-67a2-48b1-a020-c499bb0b521c)
-*Figure 1: Full isometric view of the parametric room layout modeled in Onshape.*
+### Phase 1: Spatial Planning & Parametric CAD
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dbc2697f-67a2-48b1-a020-c499bb0b521c" height="380" alt="Onshape Room Layout CAD" />
+</p>
+<p align="center">
+  <em>Figure 1: Full isometric view of the room layout, low-profile desk, and space optimization modeled in Onshape.</em>
+</p>
+
+<br>
+
+---
+
+### Phase 2: Fabrication, Material Reclamation & Structural Metalwork
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e64ed13-b7b3-4000-aeb6-2c66c04b0a81" height="280" alt="Material Reclamation Sanding Pallets" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/63aa137b-37a5-4876-baea-5ed924deb6b9" height="280" alt="Reclaimed Wood Bed Platform Setup" />
+</p>
+<p align="center">
+  <em>(Left) Figure 2: Material reclamation & heavy wood sanding. | (Right) Figure 3: Low-profile bed foundation constructed from reclaimed pallet timber.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/401e75bc-76ec-420b-b09a-5dfaaf666225" height="320" alt="Aircraft-Grade Desk Chassis" />
+</p>
+<p align="center">
+  <em>Figure 4: Ultralight aircraft-grade desk chassis: spliced aluminum tubing, solid blind riveting, custom corner brackets, and bolted center support system.</em>
+</p>
+
+<br>
+
+---
+
+### Phase 3: Final Environment & System Integration
+
+<p align="center">
+  <img src="./final_room_placeholder.jpg" height="420" alt="Completed Room & Automated Lighting" />
+</p>
+<p align="center">
+  <em>Figure 5: [Build In Progress] Final commissioned living environment featuring custom airframe floor desk, ergonomic floor bedding, and automated circadian smart lighting systems.</em>
+</p>
 
 ---
 
@@ -47,4 +89,4 @@ This project demonstrates a complete engineering workflow: **Concept ➔ CAD Par
 - **Systems Architecture:** Integrated smart-LED arrays, mobile automation firmware, circadian light schedules
 
 ---
-[🡨 Back to Portfolio Dashboard](https://github.com/EngineeringEmman)
+[🡨 Back to Portfolio Dashboard](https://github.com/EngineeringEmman/EngineeringEmman/tree/main/project-living)
