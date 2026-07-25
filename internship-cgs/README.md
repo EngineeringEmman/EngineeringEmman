@@ -12,7 +12,7 @@ Hands-on aerospace manufacturing and assembly experience focused on fabricating 
 
 ## 📸 Media & Visual Log: Fabrication to Final Assembly
 
-![Electric Saw Metal Cutting](/<img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/47931fcb-9fd1-4864-8e3a-2a73e8c7119d" />)
+![Electric Saw Metal Cutting](/<img width="400" height="2556" alt="image" src="https://github.com/user-attachments/assets/47931fcb-9fd1-4864-8e3a-2a73e8c7119d" />)
 *Figure 1: Cutting raw aluminum structural tubing to precise lengths using an electric cut-off saw.*
 
 ![Tube Bending Operation](https://github.com/user-attachments/assets/61f744e8-28ff-4fdd-af8f-12ebda514c2c)
