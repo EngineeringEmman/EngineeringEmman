@@ -12,22 +12,23 @@ Hands-on aerospace manufacturing and assembly experience focused on fabricating 
 
 ## 📸 Media & Visual Log: Fabrication to Final Assembly
 
-<div align="center">
+![Electric Saw Metal Cutting](https://github.com/user-attachments/assets/6e22f2cb-ebcf-4ec0-a2bd-257a0701bc20)
+*Figure 1: Cutting raw aluminum structural tubing to precise lengths using an electric cut-off saw.*
 
-![Cutting aluminum tubing with electric saw](https://github.com/user-attachments/assets/6e22f2cb-ebcf-4ec0-a2bd-257a0701bc20) ![Operating manual tube bender](https://github.com/user-attachments/assets/61f744e8-28ff-4fdd-af8f-12ebda514c2c)
-*Figure 1 (Left): Precision cutting aluminum structural tubing. | Figure 2 (Right): Operating manual tube bender for custom structural curves.*
+![Tube Bending Operation](https://github.com/user-attachments/assets/61f744e8-28ff-4fdd-af8f-12ebda514c2c)
+*Figure 2: Operating the manual tube bender to form precision structural curves in aluminum tubing.*
 
----
+![Custom Fuel Tank Support Bracket](https://github.com/user-attachments/assets/e22d9bfe-a06d-4ee8-b800-47be0bdf0a66)
+*Figure 3: Custom fabricated mounting bracket designed to securely support the aircraft fuel tank.*
 
-![Custom fuel tank support bracket](https://github.com/user-attachments/assets/e22d9bfe-a06d-4ee8-b800-47be0bdf0a66) ![Custom battery box fabrication](https://github.com/user-attachments/assets/3ddcd472-cf52-4753-af78-e8cb554558e4)
-*Figure 3 (Left): Fabricated aluminum fuel tank mounting support. | Figure 4 (Right): Aircraft battery housing fabrication.*
+![Custom Battery Box Assembly](https://github.com/user-attachments/assets/3ddcd472-cf52-4753-af78-e8cb554558e4)
+*Figure 4: Fabrication, fitting, and structural mounting of the custom aircraft battery housing.*
 
----
+![Airframe Riveting & Assembly](https://github.com/user-attachments/assets/8bc39d3c-cae2-45e0-aa57-aa1e10ee06dc)
+*Figure 5: Executing pneumatic drilling and precision riveting on the primary airframe fuselage.*
 
-![Airframe riveting and assembly](https://github.com/user-attachments/assets/8bc39d3c-cae2-45e0-aa57-aa1e10ee06dc) ![Final airframe wing integration](https://github.com/user-attachments/assets/8eb7892b-8a56-4b2a-afd4-71be84e27f31)
-*Figure 5 (Left): Executing pneumatic drilling and riveting on main fuselage. | Figure 6 (Right): Integrating flight wings onto completed fuselage.*
-
-</div>
+![Final Airframe Wing Integration](https://github.com/user-attachments/assets/8eb7892b-8a56-4b2a-afd4-71be84e27f31)
+*Figure 6: Final assembly staging as the flight wings are physically integrated onto the completed fuselage.*
 
 ---
 
