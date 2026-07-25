@@ -12,23 +12,57 @@ Hands-on aerospace manufacturing and assembly experience focused on fabricating 
 
 ## 📸 Media & Visual Log: Fabrication to Final Assembly
 
-![Electric Saw Metal Cutting](/<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/47931fcb-9fd1-4864-8e3a-2a73e8c7119d" />)
-*Figure 1: Cutting raw aluminum structural tubing to precise lengths using an electric cut-off saw.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47931fcb-9fd1-4864-8e3a-2a73e8c7119d" height="420" alt="Electric Saw Metal Cutting" />
+</p>
+<p align="center">
+  <em>Figure 1: Cutting raw aluminum structural tubing to precise lengths using an electric cut-off saw.</em>
+</p>
 
-![Tube Bending Operation](https://github.com/user-attachments/assets/61f744e8-28ff-4fdd-af8f-12ebda514c2c)
-*Figure 2: Operating the manual tube bender to form precision structural curves in aluminum tubing.*
+<br>
 
-![Custom Fuel Tank Support Bracket](https://github.com/user-attachments/assets/e22d9bfe-a06d-4ee8-b800-47be0bdf0a66)
-*Figure 3: Custom fabricated mounting bracket designed to securely support the aircraft fuel tank.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8fb9d397-d053-4a74-b4d2-dbdc783569af" height="420" alt="Tube Bending Operation" />
+</p>
+<p align="center">
+  <em>Figure 2: Operating the manual tube bender to form precision structural curves in aluminum tubing.</em>
+</p>
 
-![Custom Battery Box Assembly](https://github.com/user-attachments/assets/3ddcd472-cf52-4753-af78-e8cb554558e4)
-*Figure 4: Fabrication, fitting, and structural mounting of the custom aircraft battery housing.*
+<br>
 
-![Airframe Riveting & Assembly](https://github.com/user-attachments/assets/8bc39d3c-cae2-45e0-aa57-aa1e10ee06dc)
-*Figure 5: Executing pneumatic drilling and precision riveting on the primary airframe fuselage.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8c04a3d-8426-45ac-b19f-bf7976d5c4a0" height="420" alt="Custom Fuel Tank Support Bracket" />
+</p>
+<p align="center">
+  <em>Figure 3: Custom fabricated mounting bracket designed to securely support the aircraft fuel tank.</em>
+</p>
 
-![Final Airframe Wing Integration](https://github.com/user-attachments/assets/8eb7892b-8a56-4b2a-afd4-71be84e27f31)
-*Figure 6: Final assembly staging as the flight wings are physically integrated onto the completed fuselage.*
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/728b1fd9-bf4e-428a-a375-e4e2053536c0" height="420" alt="Custom Battery Box Assembly" />
+</p>
+<p align="center">
+  <em>Figure 4: Fabrication, fitting, and structural mounting of the custom aircraft battery housing.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a0e9a0e-fd33-425a-8924-2d935bb80782" height="420" alt="Airframe Riveting & Assembly" />
+</p>
+<p align="center">
+  <em>Figure 5: Executing pneumatic drilling and precision riveting on the primary airframe fuselage.</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/175b2ea3-78f8-49f6-a373-025add64b539" height="420" alt="Final Airframe Wing Integration" />
+</p>
+<p align="center">
+  <em>Figure 6: Final assembly staging as the flight wings are physically integrated onto the completed fuselage.</em>
+</p>
 
 ---
 
@@ -56,4 +90,4 @@ Hands-on aerospace manufacturing and assembly experience focused on fabricating 
 * **Components Built:** Front wheel axles, custom battery boxes, fuel tank support mounts, ailerons, flaps, wing structures, airframe gussets
 
 ---
-[🡨 Back to Portfolio Dashboard](https://github.com/EngineeringEmman)
+[🡨 Back to Portfolio Dashboard](https://github.com/EngineeringEmman/EngineeringEmman)
