@@ -1,42 +1,54 @@
-# Aircraft Assembly Internship — CGS Hawk
-**Role:** Aerospace Fabrication & Structural Assembly  
-**Timeline:** Summer 2026
+# Aircraft Assembly & Structural Fabrication Internship
+**Company:** CGS Hawk Ultralight Aircraft  
+**Role:** Aircraft Assembly Intern  
+**Focus:** Structural Fabrication, Precision Metrology, Tooling/Jig Operations, & Component Manufacturing  
 
 ---
 
-## 🛫 Engineering Overview
-This repository documents hands-on aerospace manufacturing and assembly experience with the CGS Hawk ultralight aircraft. The focus of this role centers on translating engineering designs into physical, flight-ready hardware while maintaining strict quality and manufacturing tolerances on the shop floor.
+## ✈️ Overview
+Hands-on aerospace manufacturing and assembly experience focused on fabricating light aircraft structural components, managing precision sub-assemblies, and executing quality-critical fitting processes. Work spanned the full production lifecycle—from raw raw stock fabrication using shop equipment to final airframe integration and manufacturing customer-bound replacement assemblies.
 
 ---
 
 ## 📸 Media & Visual Log
-*(As you gather CAD screenshots, assembly photos, or structural schematics, drop the files into this directory and link them below.)*
+*(Replace image file paths with your uploaded image file names in this folder)*
 
-![CGS Hawk Structural Assembly](./placeholder.png)
-*Figure 1: Description of the assembly component, alignment verification, or hardware fitting layout.*
+![Airframe Riveting & Assembly](./riveting.jpg)
+*Figure 1: Executing precision pneumatic drilling and blind/solid riveting on airframe structural members.*
 
----
+![Custom Battery Box Fabrication](./battery_box.jpg)
+*Figure 2: Fabrication, fitting, and mounting of the custom aircraft battery housing.*
 
-## 🛠️ Technical Focus & Contributions
+![Structural Fabrication & Machining](./fabrication.jpg)
+*Figure 3: Material processing using metal saw, sheet metal bender, and drill press equipment.*
 
-### 1. Component Fabrication & Fitting
-* Executed high-precision drilling, riveting, and structural fitting protocols on aluminum airframe components.
-* Interpreted blueprints and technical schematics to ensure precise alignment across structural load paths.
-
-### 2. Aerospace Manufacturing & Quality Considerations
-* Maintained strict adherence to build tolerances, verifying hardware installation against quality and safety specs.
-* Analyzed physical component interfaces to troubleshoot alignment variations before final fastening.
-
-### 3. Production Efficiency & Workflow
-* Observed physical tool sequencing on the shop floor to identify minor process bottlenecks.
-* Contributed to streamlined assembly transitions, ensuring a smooth connection between raw hardware and completed assemblies.
+![Airframe & Control Surface Staging](./plane_progress.jpg)
+*Figure 4: Airframe assembly staging showing wing, aileron, and flap structural integration.*
 
 ---
 
-## 📈 Future Updates
-- [ ] Upload clean isometric CAD renders of specific structural brackets.
-- [ ] Add calibrated photos of completed sub-assemblies (ensuring company media clearance).
-- [ ] Expand descriptions of the mechanical fasteners and materials utilized.
+## 🛠️ Key Technical Responsibilities & Fabrication Skills
+
+### 1. Airframe Structural Fabrication & Tooling
+* Operated primary shop fabrication machinery—including **drill presses, bandsaws, and sheet metal benders**—to process raw metal stock into finished airframe fittings.
+* Utilized precision **jigs and fixtures** to assemble control surfaces including **ailerons, flaps, and wing skeletons**, ensuring tight geometric tolerances across multi-foot spans.
+* Executed extensive **drilling, deburring, and pneumatic rivet gunning** across aluminum structural tubing and skin gussets.
+
+### 2. Metrology, Leveling & Quality Assurance
+* Performed **precision dimensional measurements and airframe leveling** before and after component integration to maintain structural symmetry and flight alignment.
+* Ensured fit and tolerance checks across critical mechanical interfaces prior to permanent fastening.
+
+### 3. Hardware Fabrication & Direct Customer Manufacturing
+* Engineered and fabricated custom aircraft sub-assemblies, including a dedicated **structural battery housing**.
+* Manufactured flight-ready components, such as **front wheel axles**, adhering to strict quality control standards for direct shipment to commercial customers.
+* Aided in the general assembly, wing integration, and structural staging of complete CGS Hawk aircraft.
+
+---
+
+## 📦 Equipment, Tools & Processes Mastered
+* **Machinery & Tools:** Drill press, metal bandsaw, sheet metal bender, pneumatic rivet gun, air drills, precision leveling instruments, hand tools
+* **Processes:** Blind & solid riveting, jig alignment, sheet metal forming, tube bending, precision deburring, metrology/dimensional inspection
+* **Components Built:** Front wheel axles, custom battery boxes, ailerons, flaps, wing structures, airframe gussets
 
 ---
 [🡨 Back to Portfolio Dashboard](https://github.com/EngineeringEmman)
