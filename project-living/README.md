@@ -89,4 +89,4 @@ This project demonstrates a complete engineering workflow: **Concept ➔ CAD Par
 - **Systems Architecture:** Integrated smart-LED arrays, mobile automation firmware, circadian light schedules
 
 ---
-[🡨 Back to Portfolio Dashboard](https://github.com/EngineeringEmman/EngineeringEmman/tree/main/project-living)
+[🡨 Back to Portfolio Dashboard](https://github.com/EngineeringEmman/EngineeringEmman)
