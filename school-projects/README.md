@@ -53,3 +53,5 @@ Hand-soldered a complete acoustic-sensing PCB kit from scratch, installing all d
 * **Electronics & Microcontrollers:** Arduino Microcontroller, Sourced Motors & Sensors, Sound-Activated PCB Component Kit
 * **Assembly Tools:** Soldering Iron & Solder, Battery Power Packs, Hand Tools
 * **Software:** Arduino IDE (C/C++), Microcontroller Logic Programming
+
+[🡨 Back to Portfolio Dashboard](https://github.com/EngineeringEmman/EngineeringEmman)
