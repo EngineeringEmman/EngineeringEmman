@@ -6,14 +6,14 @@ A dedicated documentation repository for mechanical, hardware, and design-build 
 
 ## 1. 🦆 Duck-Launching Obstacle Robot
 **Course / Event:** Intro to Engineering Design  
-**Key Skills:** Chassis Fabrication, Motor & Drive Controls, Mechanism Design, Rapid Prototyping
+**Key Skills:** Laser Cutting, Hardware Assembly, Motor Programming, Rapid Prototyping
 
 ### Overview
-Designed, built, and programmed an autonomous/RC robot built to navigate complex obstacle courses and accurately launch a target payload (rubber duck) into a designated landing zone.
+Programmed and assembled an obstacle-course robot built on a provided foundational chassis, featuring custom laser-cut wood components fabricated in the UCF engineering lab to launch a target payload (rubber duck).
 
-* **Fabrication & Assembly:** Custom chassis construction, drive-train assembly, and motor wiring.
-* **Mechanism Design:** Engineered a mechanical launch trigger and tensioned release mechanism for payload projection.
-* **Testing & Iteration:** Conducted multiple field runs to calibrate launch angles, power delivery, and steering precision.
+* **Fabrication & Assembly:** Custom-designed and laser-cut wooden structural pieces in the UCF lab to extend chassis functionality and mounting.
+* **Mechanism Design:** Built a mechanical launch mechanism for payload projection using custom-fitted laser-cut parts.
+* **Programming & Controls:** Programmed motor control logic and calibrated launch timing/angles for target accuracy.
 
 *(Add build photos / video GIFs here)*
 
@@ -21,14 +21,14 @@ Designed, built, and programmed an autonomous/RC robot built to navigate complex
 
 ## 2. 🍊 Reflection Pond Orange Naval Race
 **Course / Event:** UCF Engineering Competition  
-**Key Skills:** Hydrodynamics & Buoyancy Calculations, Propulsion Design, Waterproofing, Weight Distribution
+**Key Skills:** Foam Hull Fabrication, Arduino (C/C++), Sensor Integration, Electronics Assembly
 
 ### Overview
-Engineered a custom, lightweight watercraft designed to transport and stabilize an orange payload across the UCF Reflection Pond under competitive race conditions.
+Engineered a lightweight motorized watercraft using a hand-carved foam hull and custom Arduino microcontroller logic to transport and stabilize an orange payload across the UCF Reflection Pond.
 
-* **Hydrodynamic Hull Design:** Modeled and tested hull geometry to minimize drag while maximizing stability on open water.
-* **Propulsion & Stability:** Integrated motor propulsion and balanced center-of-gravity placement to ensure zero payload capsizing.
-* **Physical Execution:** Rapidly prototyped the hull using lightweight composite/foam materials and field-tested on water before race day.
+* **Hull Fabrication:** Shaped and optimized a custom lightweight foam hull for buoyancy, stability, and minimal drag.
+* **Electronics & Hardware:** Sourced, mounted, and wired propulsion electronics and sensor components within the hull.
+* **Arduino Programming:** Wrote custom C/C++ scripts for the provided Arduino chip to process sensor inputs and drive automated navigation controls.
 
 *(Add race day photos / video GIFs here)*
 
@@ -36,19 +36,20 @@ Engineered a custom, lightweight watercraft designed to transport and stabilize 
 
 ## 3. 🔊 Sound-Activated PCB & Hardware Soldering
 **Course / Event:** Hardware & Electronics Lab  
-**Key Skills:** Through-Hole Soldering, Schematic Reading, Acoustic Sensor Integration, Circuit Troubleshooting
+**Key Skills:** Through-Hole Soldering, Hardware Testing, Circuit Component Placement
 
 ### Overview
-Hand-soldered a custom PCB motherboard featuring acoustic sensor circuitry that triggers LED lighting outputs upon detecting voice or ambient audio frequencies.
+Hand-soldered a complete acoustic-sensing PCB kit from scratch, installing all discreet components, sensors, and LED indicators to operate on battery power upon voice detection.
 
-* **Assembly & Soldering:** Placed and soldered through-hole components, resistors, capacitors, and IC sockets cleanly onto the board.
-* **Signal Integration:** Configured microphone sensor sensitivity to ensure responsive light triggers without false tripping from background noise.
-* **Hardware Debugging:** Utilized multimeters to test continuity, trace power paths, and verify solder joint integrity across all nodes.
+* **Precision Soldering:** Cleanly placed and soldered all through-hole components, resistors, capacitors, acoustic sensors, and IC sockets onto the circuit board.
+* **Hardware Assembly:** Verified solder bridges and component orientation before connecting battery power to trigger LED illumination via sound detection.
 
 *(Add PCB close-up photos & demo videos here)*
 
 ---
 
 ## 🛠️ Summary of Equipment & Tools Used
-* **Hardware & Shop Tools:** Drill Press, Hand Tools, Band Saw, Soldering Iron & Desoldering Pump, Multimeter
-* **Software & Analysis:** CAD Modeling, Basic Microcontroller Logic, Circuit Schematic Analysis
+* **Fabrication & Materials:** Engineering Lab Laser Cutter, Custom-Cut Plywood, Shaped Rigid Foam
+* **Electronics & Microcontrollers:** Arduino Microcontroller, Sourced Motors & Sensors, Sound-Activated PCB Component Kit
+* **Assembly Tools:** Soldering Iron & Solder, Battery Power Packs, Hand Tools
+* **Software:** Arduino IDE (C/C++), Microcontroller Logic Programming
