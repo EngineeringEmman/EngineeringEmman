@@ -53,7 +53,7 @@ Hands-on engineering projects executed during freshman and sophomore coursework,
 ---
 
 
-### ⚙️ Mechanical + Electronics + Software Build
+### ⚙️ Future Personal Project
 
 A short-term engineering project combining mechanical design, CAD, coding, and electronics into a complete functional system.
 
