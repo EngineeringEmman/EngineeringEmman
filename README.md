@@ -41,6 +41,17 @@ A long-term engineering project focused on designing and building a fully furnis
 
 [View Project Living →](./project-living)
 
+### 🏫 Foundational Engineering Builds (UCF)
+Hands-on engineering projects executed during freshman and sophomore coursework, demonstrating core mechanics, rapid prototyping, and hardware design from Day 1:
+
+1. **Duck-Launching Obstacle Robot** — Designed, fabricated, and programmed an autonomous/RC robot to navigate obstacle courses and launch a target payload.
+2. **Reflection Pond Orange Naval Race** — Engineered and tested a lightweight watercraft designed to transport and stabilize a payload across water.
+3. **Sound-Activated PCB & Soldering** — Hand-soldered a custom circuit board with integrated acoustic sensors that trigger LED illumination upon voice detection.
+
+[Explore Build Logs & Media →](./school-projects)
+
+---
+
 
 ### ⚙️ Mechanical + Electronics + Software Build
 
