@@ -15,7 +15,7 @@ Programmed and assembled an obstacle-course robot built on a provided foundation
 * **Mechanism Design:** Built a mechanical launch mechanism for payload projection using custom-fitted laser-cut parts.
 * **Programming & Controls:** Programmed motor control logic and calibrated launch timing/angles for target accuracy.
 
-*(Add build photos / video GIFs here)*
+*(Future Video)*
 
 ---
 
@@ -30,7 +30,7 @@ Engineered a lightweight motorized watercraft using a hand-carved foam hull and 
 * **Electronics & Hardware:** Sourced, mounted, and wired propulsion electronics and sensor components within the hull.
 * **Arduino Programming:** Wrote custom C/C++ scripts for the provided Arduino chip to process sensor inputs and drive automated navigation controls.
 
-*(Add race day photos / video GIFs here)*
+*(Future Picture)*
 
 ---
 
@@ -44,7 +44,7 @@ Hand-soldered a complete acoustic-sensing PCB kit from scratch, installing all d
 * **Precision Soldering:** Cleanly placed and soldered all through-hole components, resistors, capacitors, acoustic sensors, and IC sockets onto the circuit board.
 * **Hardware Assembly:** Verified solder bridges and component orientation before connecting battery power to trigger LED illumination via sound detection.
 
-*(Add PCB close-up photos & demo videos here)*
+*(Future Video)*
 
 ---
 
