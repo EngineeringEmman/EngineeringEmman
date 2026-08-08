@@ -1,6 +1,6 @@
 # 🏫 UCF Foundational Engineering Projects
 
-A dedicated documentation repository for mechanical, hardware, and design-build projects executed during freshman and sophomore engineering coursework at the University of Central Florida.
+A dedicated documentation repository for mechanical, hardware, and design-build projects executed during freshman coursework at the University of Central Florida.
 
 ---
 
