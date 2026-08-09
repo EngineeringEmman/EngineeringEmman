@@ -15,8 +15,7 @@ This project demonstrates a complete engineering workflow: **Concept ➔ CAD Par
 
 ### Phase 1: Spatial Planning & Parametric CAD
 <p align="center">
-  <img src="<img width="786" height="532" alt="image" src="https://github.com/user-attachments/assets/fdf04c70-d991-4919-8277-14a979119ac1" />
-" height="380" alt="Onshape Room Layout CAD" />
+  <img src="https://github.com/user-attachments/assets/fdf04c70-d991-4919-8277-14a979119ac1" height="380" alt="Onshape Room Layout CAD" />
 </p>
 <p align="center">
   <em>Figure 1: Full isometric view of the room layout, low-profile desk, and space optimization modeled in Onshape.</em>
