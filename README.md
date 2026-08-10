@@ -10,7 +10,7 @@ My experience includes hands-on aircraft manufacturing and assembly, mechanical 
 
 ## 💼 Experience
 
-### Aircraft Assembly Intern — CGS Hawk Ultralight Aircraft
+### Aerospace Manufacturing Intern — CGS Hawk Ultralight Aircraft
 
 Hands-on aerospace manufacturing experience involving aircraft fabrication, assembly, and working with physical hardware.
 
