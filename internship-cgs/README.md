@@ -1,6 +1,6 @@
 # Aircraft Assembly & Structural Fabrication Internship
 **Company:** CGS Hawk Ultralight Aircraft  
-**Role:** Aircraft Assembly Intern  
+**Role:** Aerospace Manufacturing Intern  
 **Focus:** Structural Fabrication, Precision Metrology, Tooling/Jig Operations, & Component Manufacturing  
 
 ---
