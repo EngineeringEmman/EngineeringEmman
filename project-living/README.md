@@ -52,10 +52,10 @@ This project demonstrates a complete engineering workflow: **Concept ➔ CAD Par
 ### Phase 3: Final Environment & System Integration
 
 <p align="center">
-  <img src="./final_room_placeholder.jpg" height="420" alt="Future Completed Room Image..." />
+  <img width="1024" height="768" alt="Final Integrated Living Environment" src="https://github.com/user-attachments/assets/5d70d92b-5ef9-4e08-9bb5-04fcf2a50da2" />
 </p>
 <p align="center">
-  <em>Figure 5: [Build In Progress] Final commissioned living environment featuring custom airframe floor desk, ergonomic floor bedding, and automated circadian smart lighting systems.</em>
+  <em>Figure 5: Final commissioned living environment featuring custom airframe floor desk, ergonomic floor bedding, and automated circadian smart lighting systems.</em>
 </p>
 
 ---
