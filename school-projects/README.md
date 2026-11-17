@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/568f9e4d-06d1-4413-9a10-ce58c5cf888f
+
 # 🏫 UCF Foundational Engineering Projects
 
 A dedicated documentation repository for mechanical, hardware, and design-build projects executed during freshman coursework at the University of Central Florida.
