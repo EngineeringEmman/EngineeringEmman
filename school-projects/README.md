@@ -33,7 +33,6 @@ Engineered a lightweight motorized watercraft using a hand-carved foam hull and 
 * **Electronics & Hardware:** Sourced, mounted, and wired propulsion electronics and sensor components within the hull.
 * **Arduino Programming:** Wrote custom C/C++ scripts for the provided Arduino chip to process sensor inputs and drive automated navigation controls.
 
-*(Future Picture)*
 
 ---
 
