@@ -47,7 +47,10 @@ Hand-soldered a complete acoustic-sensing PCB kit from scratch, installing all d
 * **Precision Soldering:** Cleanly placed and soldered all through-hole components, resistors, capacitors, acoustic sensors, and IC sockets onto the circuit board.
 * **Hardware Assembly:** Verified solder bridges and component orientation before connecting battery power to trigger LED illumination via sound detection.
 
-*(Future Video)*
+
+
+https://github.com/user-attachments/assets/e0ced5d4-f8aa-4a77-a0d0-a3707bb7cc5b
+
 
 ---
 
