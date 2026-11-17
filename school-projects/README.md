@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/568f9e4d-06d1-4413-9a10-ce58c5cf888f
 
 # 🏫 UCF Foundational Engineering Projects
 
@@ -19,7 +18,7 @@ Programmed and assembled an obstacle-course robot built on a provided foundation
 * **Mechanism Design:** Built a mechanical launch mechanism for payload projection using custom-fitted laser-cut parts.
 * **Programming & Controls:** Programmed motor control logic and calibrated launch timing/angles for target accuracy.
 
-*(Future Video)*
+https://github.com/user-attachments/assets/568f9e4d-06d1-4413-9a10-ce58c5cf888f
 
 ---
 
